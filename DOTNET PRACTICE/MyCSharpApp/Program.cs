@@ -1,4 +1,5 @@
-﻿// using System;
+//C# program to calculate factorial of a number using value type.
+// using System;
 
 // class FactorialCalculator
 // {
