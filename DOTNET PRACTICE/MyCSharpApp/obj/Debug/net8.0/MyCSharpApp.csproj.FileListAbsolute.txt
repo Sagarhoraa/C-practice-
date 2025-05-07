@@ -1,0 +1,14 @@
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.exe
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.deps.json
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.runtimeconfig.json
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.dll
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.pdb
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.AssemblyInfoInputs.cache
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.AssemblyInfo.cs
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.dll
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\obj\Debug\net8.0\refint\MyCSharpApp.dll
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.pdb
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.genruntimeconfig.cache
+C:\Users\sagar\OneDrive\Desktop\DOTNET PRACTICE\MyCSharpApp\obj\Debug\net8.0\ref\MyCSharpApp.dll
