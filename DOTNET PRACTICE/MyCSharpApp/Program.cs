@@ -95,3 +95,71 @@
 //         Console.WriteLine("After CallByReference: " + refNum); // Changes reflect
 //     }
 // }
+
+
+
+
+
+
+// Real-Life Example (Call by Value)
+// You have Rs. 500 in your pocket (myMoney = 500).
+
+// You tell your friend: "I have Rs. 500!" (You give them a copy of your money info).
+
+// Your friend lies: "No, you have Rs. 100!" (They change their copy to 100).
+
+// But your actual money is still Rs. 500! (Original unchanged).
+
+//  using System;
+// class Program
+// {
+//     // Your friend's function (works on a COPY)
+//     static void FriendLies(int friendCopy) 
+//     {
+//         friendCopy = 100;  // Friend changes their COPY to 100
+//         Console.WriteLine($"Friend says: You have Rs. {friendCopy}"); // 100 (LIE!)
+//     }
+
+//     static void Main()
+//     {
+//         int myMoney = 500;  // Your REAL money (Rs. 500)
+//         Console.WriteLine($"Truth: You actually have Rs. {myMoney}"); // 500 (TRUE)
+
+//         FriendLies(myMoney); // Friend gets a COPY of your money info
+
+//         // After friend's lie, check your REAL money:
+//         Console.WriteLine($"After friend's lie, you STILL have Rs. {myMoney}"); // 500 (UNCHANGED!)
+//     }
+// }
+
+
+
+
+
+
+
+// //call by reference 
+// Real-Life Example
+// You hand your actual wallet (ref myMoney) to your friend.
+
+// They change Rs. 500 → Rs. 100 directly in your wallet.
+
+// You check later—your real money is now Rs. 100 😱.
+
+
+using System;
+public class Program
+{
+    static void friendFuntion(ref int updatedMoney)
+    {
+        updatedMoney=100;
+        Console.WriteLine($"friend say your money is now rs{updatedMoney}");
+    }
+    static void Main()
+    {
+        int myMoney=500;
+        Console.WriteLine($"my real money is rs:{myMoney}");
+        friendFuntion(ref myMoney);
+        Console.WriteLine($"oh no my money is now {myMoney} shit , i should not have to give my money to my friend ,");
+    }
+}
